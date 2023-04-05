@@ -1,0 +1,6 @@
+//The code is meant to export the functions GET_PROPERTIES,GET_FEATURED_PROPERTIES and GET_PROPERTY.
+export const GET_PROPERTIES = "GET_PROPERTIES";
+
+export const GET_FEATURED_PROPERTIES = "GET_FEATURED_PROPERTIES";
+
+export const GET_PROPERTY = "GET_PROPERTY";
